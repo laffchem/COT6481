@@ -1,0 +1,16 @@
+[project]
+name = "school"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "cufflinks>=0.17.3",
+    "httpx>=0.28.1",
+    "nbformat>=5.10.4",
+    "numpy>=2.4.2",
+    "pandas>=3.0.1",
+    "pdfplumber>=0.11.9",
+    "plotly>=6.5.2",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+]
